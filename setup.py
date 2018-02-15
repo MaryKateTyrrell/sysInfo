@@ -7,7 +7,7 @@ Created on 25 Jan 2018
 from setuptools import setup
 
 
-setup(name="systemInfo", 
+setup(name="sysInfo", 
       version="0.1",
       description="Basic System Info for COMP30670",
       url="",
